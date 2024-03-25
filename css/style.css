@@ -141,9 +141,7 @@ img {
   }
 
  @media screen and (max-width: 768px) {
-    .main {
-        width: 768px;
-    }
+   
 
     .container {
         width: 100%;
@@ -151,9 +149,7 @@ img {
   }
 
   @media screen and (max-width: 480px) {
-    .main {
-        width: 480px;
-    }
+    
 
     .container {
         width: 100%;
