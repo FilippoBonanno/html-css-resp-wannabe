@@ -141,16 +141,12 @@ img {
   }
 
  @media screen and (max-width: 768px) {
-   
-
     .container {
         width: 100%;
     }
   }
 
   @media screen and (max-width: 480px) {
-    
-
     .container {
         width: 100%;
     }
@@ -169,5 +165,14 @@ img {
         width: 80%;
         margin-bottom: 4rem;    
     }
+
+    .steps .col:last-child,
+    .lessons .col:last-child,
+    .why-us .col-right:last-child {
+        margin-bottom: unset;
+
+    }
   }
+
+
  
